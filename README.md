@@ -1,0 +1,2 @@
+# DeepVision
+ DeepVision is a Convolutional Neural Network (CNN) built for classifying grayscale images into 20 distinct classes. The project focuses on image recognition with a deep architecture, utilizing advanced augmentation techniques and a large dataset of 130k images. This repository includes the model architecture, training scripts, and data preprocessing steps, as well as insights into improving accuracy with batch normalization and dropout. The project has achieved over 76% accuracy and showcases the progression from simple to more complex augmentation strategies.
