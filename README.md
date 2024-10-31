@@ -98,6 +98,5 @@ The model achieved over 76% accuracy at epoch 14 on a test set, with steady impr
 If you wish to contribute to DeepVision, feel free to fork the repository, make your changes, and submit a pull request. Please ensure any contributions are tested.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-```
-[---](https://github.com/Namchee/site/blob/master/LICENSE)
+This project is licensed under the MIT License.
+
