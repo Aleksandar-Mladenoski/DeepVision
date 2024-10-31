@@ -100,4 +100,4 @@ If you wish to contribute to DeepVision, feel free to fork the repository, make 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 ```
----
+[---](https://github.com/Namchee/site/blob/master/LICENSE)
